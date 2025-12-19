@@ -5,7 +5,7 @@ A high-performance Flutter e-commerce application featuring state persistence, r
 
 Below is a demonstration of the application's key features, including the auto-sliding banner and cart persistence:
 
-https://github.com/YOUR_USERNAME/ecom/raw/main/assets/video/demo.mp4
+https://github.com/SK-AHMD/e-com/tree/main/assets/video/demo.mp4
 
 ---
 
