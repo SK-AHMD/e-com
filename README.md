@@ -3,14 +3,11 @@
 A high-performance Flutter e-commerce application featuring state persistence, reactive filtering, and a modern UI. This project was developed as part of the internship evaluation for the Truflect Team.
 ## 📺 Video Demonstration
 
-Below is a demonstration of the application's functionality. 
+Below is a demonstration of the application's key features, including the auto-sliding banner and cart persistence:
 
-<div align="center">
-  <video src="https://github.com/sk-ahmd/e-com/raw/main/assets/video/demo.mp4" width="320" controls>
-    Your browser does not support the video tag. 
-    <a href="https://github.com/sk-ahmd/e-com/raw/main/assets/video/demo.mp4">Click here to view the video file directly.</a>
-  </video>
-</div>
+https://github.com/SK-AHMD/e-com/tree/main/assets/video/demo.mp4
+
+---
 
 ## 🚀 Key Features
 
