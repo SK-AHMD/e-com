@@ -15,7 +15,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  // Initial category
+  // Initial category to all
   String _currentCategory = "All";
 
   @override

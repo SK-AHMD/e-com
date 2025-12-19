@@ -23,7 +23,7 @@ class ProductDetailScreen extends StatelessWidget {
             style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
           ),
           Text(
-            "\₹${product.price}",
+            "₹${product.price}",
             style: const TextStyle(fontSize: 20, color: Colors.green),
           ),
           const Padding(
